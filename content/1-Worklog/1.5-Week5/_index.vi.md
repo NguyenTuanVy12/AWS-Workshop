@@ -1,59 +1,30 @@
 ---
 title: "Worklog Tuần 5"
-date: 2024-01-01
-weight: 1
+date: 2026-05-04
+weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 
 ### Mục tiêu tuần 5:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Nâng cao độ tin cậy của hệ thống (Reliability) và tối ưu hóa chi phí vận hành trên đám mây (Cost Optimization).
+* Làm quen với công nghệ Container trên AWS thông qua Docker và dịch vụ Amazon ECS.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | - Thiết lập hệ thống sao lưu dữ liệu tập trung với AWS Backup <br> - Kết nối mạng cục bộ giữa các mạng ảo bằng VPC Peering | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/vi/3-optimize/> |
+| 3 | - Quản lý mạng kết nối tập trung nhiều tài khoản bằng AWS Transit Gateway <br> - Thiết kế hệ thống truyền tin nhắn bất đồng bộ với Amazon SQS và Amazon SNS | 02/06/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/vi/3-optimize/> |
+| 4 | - Nghiên cứu giải pháp HA nâng cao: Windows Server Failover Clustering và SQL Server High Availability <br> - Tìm hiểu cách chia sẻ ổ đĩa bằng Amazon EBS Multi-Attach | 03/06/2026 | 03/06/2026 | <https://cloudjourney.awsstudygroup.com/vi/3-optimize/> |
+| 5 | - Tối ưu hóa chi phí với các gói Savings Plans và Reserved Instances <br> - Phân tích sâu hóa đơn chi phí (Cost and Usage Report) bằng AWS Glue và Amazon Athena | 04/06/2026 | 04/06/2026 | <https://cloudjourney.awsstudygroup.com/vi/3-optimize/> |
+| 6 | - Tìm hiểu và thực hành đóng gói ứng dụng với Docker <br> - Triển khai container lên đám mây sử dụng Amazon Lightsail Containers và Amazon ECS (ECS với CDK & CI/CD) | 05/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/vi/5-container/> |
 
 ### Kết quả đạt được tuần 5:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* Cấu hình thành công lịch trình sao lưu tự động cho các tài nguyên EBS, RDS, S3 bằng AWS Backup.
+* Thiết lập kết nối an toàn giữa các phân vùng mạng qua VPC Peering và Transit Gateway.
+* Xây dựng thành công hệ thống trao đổi thông điệp bất đồng bộ (decoupling) với SQS và SNS.
+* Nắm vững cách quản trị chi phí, dự báo và truy vấn hóa đơn sử dụng dịch vụ thông qua Athena và Glue.
+* Đóng gói thành công ứng dụng vào Docker container và triển khai chạy ổn định trên Amazon ECS Fargate.

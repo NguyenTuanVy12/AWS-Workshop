@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
 
 > Here, you can freely share your personal opinions about your experience participating in the First Cloud AI Journey program. This will help the FCAJ team improve any shortcomings based on the following aspects:
 
@@ -36,12 +33,18 @@ The company provides an internship allowance and offers flexible working hours w
 
 ### Additional Questions
 - What did you find **most satisfying** during your internship?  
+  &emsp; What I found most satisfying was getting hands-on experience with production AWS services through high-quality labs and workshops, alongside the dedicated guidance and problem-solving mindset fostered by our mentors.
 - What do you think the company **should improve** for future interns?  
+  &emsp; The organization could introduce small technical seminars to share real-world operations experiences from senior cloud engineers in the company.
 - If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+  &emsp; Absolutely yes. It is an intense but extremely rewarding bootcamp that drastically upgrades cloud engineering skills and problem-solving abilities.
 
 ---
 
 ### Suggestions & Expectations
 - Do you have any suggestions to improve the internship experience?  
+  &emsp; I suggest providing slightly larger AWS service budgets for some of the paid service labs, allowing students to explore advanced configurations more freely.
 - Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+  &emsp; Yes, I would love to remain involved in future iterations of the program as a support member or junior mentor to guide new cohorts.
+- Any other comments (free sharing):  
+  &emsp; Sincere thanks to the First Cloud AI Journey organizers and all the mentors for their guidance and for constructing such an excellent learning environment over the past 12 weeks.

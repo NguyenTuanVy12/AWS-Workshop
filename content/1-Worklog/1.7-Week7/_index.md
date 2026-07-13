@@ -1,57 +1,31 @@
 ---
 title: "Week 7 Worklog"
-date: 2024-01-01
-weight: 1
+date: 2026-05-04
+weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 
 ### Week 7 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Conduct deep research and hands-on practices on Serverless architectures on AWS.
+* Implement end-to-end applications through three specialized workshop tracks: Book Store Series, Document Management System (DMS) Series, and Serverless Chat Application.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | --- | --- | --- | --- |
+| 2 | - Start Book Store Series: Build serverless API backend using Lambda, S3, and DynamoDB <br> - Automate resource deployments using AWS SAM (Serverless Application Model) | 15/06/2026 | 15/06/2026 | <https://cloudjourney.awsstudygroup.com/4-modernize/> |
+| 3 | - Integrate secure user auth controls using Amazon Cognito identity pools <br> - Implement GraphQL APIs using AWS AppSync and establish CI/CD release cycles | 16/06/2026 | 16/06/2026 | <https://cloudjourney.awsstudygroup.com/4-modernize/> |
+| 4 | - Kick off Document Management System (DMS) Series: Set up DynamoDB and CRUD Lambda functions <br> - Code frontend user login and API bindings using AWS Amplify SDK | 17/06/2026 | 17/06/2026 | <https://cloudjourney.awsstudygroup.com/4-modernize/> |
+| 5 | - Speed up assets distribution in DMS using Amazon CloudFront CDN <br> - Embed indexing for document searching and trace API calls using AWS X-Ray | 18/06/2026 | 18/06/2026 | <https://cloudjourney.awsstudygroup.com/4-modernize/> |
+| 6 | - Perform Serverless Web App Workshop: Program RESTful serverless APIs with DynamoDB <br> - Code two-way real-time messaging application (Serverless Chat App) via API Gateway WebSockets | 19/06/2026 | 19/06/2026 | <https://cloudjourney.awsstudygroup.com/4-modernize/> |
 
 ### Week 7 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Gained solid competence in designing 100% serverless event-driven workflows.
+* Mastered using AWS SAM templates to declare serverless infrastructure as code.
+* Secured APIs by deploying Cognito authorization constraints over API Gateway and AppSync.
+* Configured AWS Amplify to build fast, integrated frontend interfaces for react/vue apps.
+* Traced and debugged distributed application logs and response latencies using AWS X-Ray.
+* Built a production-ready real-time chat application powered by WebSocket APIs.

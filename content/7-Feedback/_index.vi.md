@@ -5,9 +5,6 @@ weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 >Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud AI Journey, giúp team FCAJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
 
@@ -34,11 +31,17 @@ Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về t
 
 ### Một số câu hỏi khác
 - Điều bạn **hài lòng nhất** trong thời gian thực tập?  
+  &emsp; Điều tôi hài lòng nhất là được tiếp cận trực tiếp với các dịch vụ thực tế của AWS thông qua các bài thực hành và workshop chất lượng cao, đồng thời nhận được sự chỉ dẫn nhiệt tình, định hướng tư duy tự giải quyết vấn đề từ các Mentor.
 - Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
+  &emsp; Ban tổ chức có thể bổ sung thêm một số buổi seminar nhỏ để chia sẻ sâu hơn về kinh nghiệm thực tế khi vận hành hạ tầng Cloud quy mô lớn của các kỹ sư trong đơn vị.
 - Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+  &emsp; Chắc chắn là có. Đây là một chương trình Bootcamp học tập vô cùng chất lượng, tuy cường độ cao nhưng giúp nâng cấp kỹ năng hạ tầng Cloud AWS và tư duy giải quyết vấn đề cực kỳ nhanh chóng.
 
 
 ### Đề xuất & mong muốn
 - Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
+  &emsp; Đề xuất ban tổ chức có thể cung cấp thêm một vài lab thực hành có budget AWS cao hơn một chút đối với các dịch vụ tốn phí để học viên thoải mái thử nghiệm nhiều cấu hình nâng cao.
 - Bạn có muốn tiếp tục chương trình này trong tương lai?
+  &emsp; Tôi rất mong muốn được tiếp tục đồng hành cùng chương trình trong tương lai dưới vai trò là thành viên hỗ trợ (hoặc Mentor phụ trợ) để chia sẻ lại kinh nghiệm cho các khóa sau.
 - Góp ý khác (tự do chia sẻ):
+  &emsp; Xin gửi lời cảm ơn chân thành đến ban tổ chức chương trình First Cloud AI Journey và các mentor đã tận tâm đồng hành, tạo điều kiện học tập tuyệt vời cho chúng tôi trong suốt 12 tuần qua.

@@ -1,57 +1,30 @@
 ---
 title: "Week 3 Worklog"
-date: 2024-01-01
-weight: 1
+date: 2026-05-04
+weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 
 ### Week 3 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Understand running Windows applications and directory services on AWS.
+* Research infrastructure migration methodologies (virtual machines, databases) from on-premises to the AWS Cloud (Migrate to AWS).
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | --- | --- | --- | --- |
+| 2 | - Learn how to configure and run Windows Server on AWS (Windows Workloads on AWS) | 18/05/2026 | 18/05/2026 | <https://cloudjourney.awsstudygroup.com/1-explore/> |
+| 3 | - Set up and manage active directory services using AWS Managed Microsoft AD | 19/05/2026 | 19/05/2026 | <https://cloudjourney.awsstudygroup.com/1-explore/> |
+| 4 | - Study virtual machine migration (VM Migration) using AWS VM Import/Export tool | 20/05/2026 | 20/05/2026 | <https://cloudjourney.awsstudygroup.com/2-migrate/> |
+| 5 | - Learn database migration workflows using AWS Database Migration Service (DMS) and Schema Conversion Tool (SCT) | 21/05/2026 | 21/05/2026 | <https://cloudjourney.awsstudygroup.com/2-migrate/> |
+| 6 | - Explore disaster recovery configuration (Disaster Recovery) with AWS Elastic Disaster Recovery | 22/05/2026 | 22/05/2026 | <https://cloudjourney.awsstudygroup.com/2-migrate/> |
 
 ### Week 3 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Understood licensing models and deployment best practices for Windows Workloads on EC2.
+* Learned central authentication management by implementing AWS Managed Microsoft AD.
+* Gained hands-on knowledge on importing on-premise VMs into Amazon Machine Images (AMIs).
+* Mastered using SCT to evaluate database compatibility and setting up active migration tasks via AWS DMS.
+* Learned how to set up continuous replication of servers to AWS for disaster recovery readiness.
