@@ -47,7 +47,7 @@ There are **2 types** of VPC Endpoints:
 ## Our Sandbox Architecture
 
 
-![VPC Endpoint Architecture](/images/3-Blog/blog1_vpc_endpoint.png)
+![VPC Endpoint Architecture](/images/3-Blog/blog1_vpc_endpoint_v2.png)
 
 
 As shown above, here's the Sandbox network architecture our team designed:
