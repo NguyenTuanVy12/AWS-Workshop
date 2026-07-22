@@ -109,3 +109,8 @@ Tham gia sự kiện **FC Community Day** là một trải nghiệm rất thiế
 * AI Agent đang chuyển dịch mạnh mẽ từ việc phản hồi văn bản đơn thuần sang khả năng tự động hóa tác vụ (*Tool Calling & Actionable Tasks*).
 * Bài toán bảo mật riêng tư (*Private Connection*) là điều kiện tiên quyết khi triển khai các giải pháp Generative AI vào môi trường Doanh nghiệp.
 * Việc nâng cao năng lực cá nhân và tư duy ứng dụng AI đúng cách chính là chìa khóa để thích ứng với sự thay đổi của thị trường lao động IT.
+
+---
+
+### 8. Link Google Drive
+* [Google Drive Link](https://drive.google.com/drive/folders/1HFBn3O3yVfNxi-RjN88kXpvAUjCLCXKk)

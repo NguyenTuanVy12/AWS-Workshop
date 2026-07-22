@@ -109,3 +109,8 @@ Attending the **FC Community Day** event was a highly practical experience, brin
 * AI Agents are actively transitioning from simple text generation to executing actionable tasks via Tool Calling.
 * Private Connection security is a prerequisite when deploying Generative AI solutions in enterprise environments.
 * Continuous self-improvement and developing a correct AI application mindset are key to adapting to the shifting IT labor market.
+
+---
+
+### 8. Google Drive Link
+* [Google Drive Link](https://drive.google.com/drive/folders/1HFBn3O3yVfNxi-RjN88kXpvAUjCLCXKk)
