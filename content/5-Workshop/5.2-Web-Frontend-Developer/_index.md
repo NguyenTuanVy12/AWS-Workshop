@@ -13,3 +13,5 @@ pre : " <b> 5.2. </b> "
 + You can further subdivide this section into:
     + 5.2.1. Structuring the React Frontend Project
     + 5.2.2. Configuring AWS Services for the Frontend
+
+![Web Frontend](/images/5-Workshop/5.2-Web-Frontend-Developer/image.png)

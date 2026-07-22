@@ -19,8 +19,8 @@ Cuối cùng, giải pháp **Amazon VPC Endpoint** được triển khai để x
 ### Nội dung
 
 1. [Tổng quan về workshop](5.1-Workshop-overview/)
-2. [Web Frontend Developer](5.2-Prerequiste/)
-3. [Xây dựng Serverless Backend](5.3-S3-vpc/)
-4. [Database & CI/CD Engineer](5.4-S3-onprem/)
-5. [Cấu hình và tích hợp hệ thống](5.5-Policy/)
-6. [Perimeter Security & Cloud Admin](5.6-Cleanup/)
+2. [Web Frontend Developer](5.2-Web-Frontend-Developer/)
+3. [Serverless Backend Developer](5.3-Serverless-Backend-Developer/)
+4. [Data](5.4-Data/)
+5. [AI Security Analyst & Web Admin](5.5-AI-Security-Analyst-%26-Web-Admin/)
+6. [Perimeter Security & Cloud Admin](5.6-Perimeter%20Security%20%26%20Cloud%20Admin/)

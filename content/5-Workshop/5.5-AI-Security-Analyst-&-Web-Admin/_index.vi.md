@@ -28,4 +28,4 @@ pre : " <b> 5.5. </b> "
 + Xây dựng AWS Lambda và API Gateway để kết nối Frontend với hệ thống AI.
 
 
-![alt text](image.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/image.png)

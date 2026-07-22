@@ -28,7 +28,7 @@ Configuration details typically include:
 
 Managing configuration in a single file simplifies updates and avoids redundant declarations across multiple application components.
 
-![](/images/5-Workshop/5.3-Web-Frontend-Developer/image-1.png)
+![](/images/5-Workshop/5.2-Web-Frontend-Developer/image-1.png)
 
 ### Accessing the AWS Management Console
 

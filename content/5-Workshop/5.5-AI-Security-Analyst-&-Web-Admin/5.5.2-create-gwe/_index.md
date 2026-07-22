@@ -8,20 +8,20 @@ pre : " <b> 5.5.2 </b> "
 
 ### Connecting to the Bastion Host
 
-![alt text](image.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.2-create-gwe/image.png)
 
 ### Checking the OS version
 
-![alt text](image-1.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.2-create-gwe/image-1.png)
 
 ### Installing Python
 
-![alt text](image-2.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.2-create-gwe/image-2.png)
 
 ### Activating the virtual environment and updating pip
 
-![alt text](image-3.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.2-create-gwe/image-3.png)
 
 ### Checking libraries
 
-![alt text](image-4.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.2-create-gwe/image-4.png)

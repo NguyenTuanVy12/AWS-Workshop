@@ -18,19 +18,19 @@ pre : " <b> 5.5.5 </b> "
     + Architecture: x86_64
     + Execution role: Create a new role with basic Lambda permissions
 
-![alt text](image.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.5-Lambda/image.png)
 
 ### Cấu hình biến môi trường
 
 - Chọn **Configuration → Environment variables → Edit.**
 
-![alt text](image-1.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.5-Lambda/image-1.png)
 
 ### Cập nhật mã nguồn Lambda 
 
 - Sau khi cập nhật mã nguồn chọn **deloy**
 
-![alt text](image-2.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.5-Lambda/image-2.png)
 
 - Lambda Function đã triển khai thành công
 
@@ -44,7 +44,7 @@ pre : " <b> 5.5.5 </b> "
 }
 ```
 
-![alt text](image-3.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.5-Lambda/image-3.png)
 
 - Lambda Function đã test thành công biết phân biết được đường dẫn url là an toàn hay độc hại.
 

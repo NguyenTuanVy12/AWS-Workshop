@@ -15,7 +15,7 @@ pre : " <b> 5.5.4 </b> "
     + Đầu tiên cập nhật danh sách phần mềm bằng lệnh **sudo apt update**
     + Sau đó dùng lệnh **sudo apt install nginx -y**
 + Kiểm tra trạng thái của Nginx nếu thấy active(running) thì đã cài thành công
-![alt text](image.png) 
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.4-prepare/image.png) 
 
 ### Cấu hình Reverse Proxy
 
@@ -35,17 +35,17 @@ server {
 }
 ```
 - kiểm tra cấu hình
-![alt text](image-1.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.4-prepare/image-1.png)
 
 - Sau khi sửa lại cấu hình dùng lệnh **sudo systemctl restart nginx** để khởi động lại cấu hình
 
 - Kiểm tra trạng thái cấu hình
-![alt text](image.png) 
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.4-prepare/image.png) 
 
 ### Kiểm tra reverse proxy
 
 - Dùng lệnh **curl http://localhost** thấy thông AI sandbox đang chạy là thành công
-![alt text](image-2.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.4-prepare/image-2.png)
 
 
 

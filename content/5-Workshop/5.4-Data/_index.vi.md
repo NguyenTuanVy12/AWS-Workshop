@@ -18,3 +18,5 @@ Nội dung của phần này được chia thành bốn nội dung chính như s
 - **5.4.2. Chuẩn bị môi trường CI/CD:** Xây dựng tệp buildspec.yml, cấu hình quá trình Build và đưa mã nguồn lên GitHub.
 - **5.4.3. Xây dựng AWS CodeBuild:** Tạo dự án CodeBuild và cấu hình môi trường Build để tự động biên dịch ứng dụng.
 - **5.4.4. Xây dựng AWS CodePipeline:** Tạo Pipeline, kết nối GitHub với CodeBuild và cấu hình quy trình tự động triển khai ứng dụng.
+
+![Data & CI/CD](/images/5-Workshop/5.4-Data/image.png)

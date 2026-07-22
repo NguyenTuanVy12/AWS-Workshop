@@ -15,7 +15,7 @@ pre : " <b> 5.5.4 </b> "
     + First, update the software package list using the command **sudo apt update**
     + Then, run the command **sudo apt install nginx -y**
 + Check the Nginx status; if it shows as "active (running)," the installation was successful.
-![alt text](image.png) 
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.4-prepare/image.png) 
 
 ### Configuring the Reverse Proxy
 
@@ -35,18 +35,18 @@ server {
 }
 ```
 - Verify the configuration.
-![alt text](image-1.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.4-prepare/image-1.png)
 
 - After modifying the configuration, use the command **sudo systemctl restart nginx** to apply the changes.
 
 - Check the service status.
-![alt text](image.png) 
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.4-prepare/image.png) 
 
 ### Testing the Reverse Proxy
 
 - Running the command **curl http://localhost** and seeing the AI ​​sandbox running indicates success.
 
-![alt text](image-2.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.4-prepare/image-2.png)
 
 
 

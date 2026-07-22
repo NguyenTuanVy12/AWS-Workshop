@@ -14,37 +14,37 @@ pre : " <b> 5.5.6 </b> "
 
 - Chọn create API
 
-![alt text](image.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.6-API Gateway/image.png)
 
 ### Tạo HTTP API 
 
 - Chọn **build -> Nhập tên API -> Review and create -> Create**
 
-![alt text](image-1.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.6-API Gateway/image-1.png)
 
 ### Tạo Integration với AWS Lambda
 
 - Điền thông tin liên kết với Lambda
 
-![alt text](image-2.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.6-API Gateway/image-2.png)
 
 - API Gateway được liên kết với Lambda Function
 
-![alt text](image-3.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.6-API Gateway/image-3.png)
 
 ### Tạo Route cho API
 
 - Chọn **route -> create**
 
-![alt text](image-4.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.6-API Gateway/image-4.png)
 
 ### Cấu hình CORS
 
-![alt text](image-5.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.6-API Gateway/image-5.png)
 
 ### Kiểm tra Stage
 
-![alt text](image-6.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.6-API Gateway/image-6.png)
 
 ### Kiểm tra API Gateway
 
@@ -52,6 +52,6 @@ pre : " <b> 5.5.6 </b> "
 
 - Nhập đường link **https://lqlv4r23xe.execute-api.ap-southeast-1.amazonaws.com/dev/analyze-url**
 
-![alt text](image-7.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.6-API Gateway/image-7.png)
 
 - postman trả thông số như trên hình là thành công

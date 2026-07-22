@@ -8,7 +8,7 @@ pre : " <b> 5.5.3 </b> "
 
 ### Connecting from Bastion Host to Sandbox
 
-![alt text](image.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image.png)
 
 ### Checking for Python and Sandbox Libraries
 
@@ -18,7 +18,7 @@ pre : " <b> 5.5.3 </b> "
 
 - Check for pip; if not installed, use the command: **sudo dnf install python3-pip -y**
 
-![alt text](image-1.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-1.png)
 
 ### Creating the AI ​​Directory and Activating the Environment
 
@@ -28,11 +28,11 @@ pre : " <b> 5.5.3 </b> "
 
 - Use the command **source venv/bin/activate** to activate the virtual environment
 
-![alt text](image-2.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-2.png)
 
 ### Upgrading pip
 
-![alt text](image-3.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-3.png)
 
 ### Installing Libraries in the AI ​​Directory
 
@@ -50,7 +50,7 @@ pre : " <b> 5.5.3 </b> "
 
 - Use the command **pip install beautifulsoup4** to install BeautifulSoup
 
-![alt text](image-4.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-4.png)
 
 ### Uploading Source Code to the Sandbox
 
@@ -58,11 +58,11 @@ pre : " <b> 5.5.3 </b> "
 
 - First, use the command **scp -i "C:\Users\ASUS\Downloads\sandbox-key.pem" -r AI_Project ubuntu@44.214.180.89:~** to upload to the Bastion Host; then, from the Bastion Host, copy the code to the Sandbox using the command **scp -i ~/sandbox-key.pem -r AI_Project ec2-user@10.0.1.xxx:~**
 
-![alt text](image-5.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-5.png)
 
 ### Launching the Environment school
 
-![alt text](image-6.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-6.png)
 
 
 

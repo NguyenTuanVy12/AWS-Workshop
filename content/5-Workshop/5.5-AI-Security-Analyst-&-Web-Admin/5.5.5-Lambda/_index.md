@@ -18,19 +18,19 @@ pre : " <b> 5.5.5 </b> "
     + Architecture: x86_64
     + Execution role: Create a new role with basic Lambda permissions
 
-![alt text](image.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.5-Lambda/image.png)
 
 ### Configuring Environment Variables
 
 - Select **Configuration → Environment variables → Edit.**
 
-![alt text](image-1.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.5-Lambda/image-1.png)
 
 ### Updating Lambda Source Code
 
 - After updating the source code, select **Deploy**.
 
-![alt text](image-2.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.5-Lambda/image-2.png)
 
 - The Lambda function has been successfully deployed.
 
@@ -44,6 +44,6 @@ pre : " <b> 5.5.5 </b> "
 }
 ```
 
-![alt text](image-3.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.5-Lambda/image-3.png)
 
 - The Lambda function test was successful, correctly identifying whether the URL is safe or malicious.

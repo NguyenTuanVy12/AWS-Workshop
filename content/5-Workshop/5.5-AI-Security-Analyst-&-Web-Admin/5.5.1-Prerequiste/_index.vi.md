@@ -10,23 +10,23 @@ pre : " <b> 5.5.1. </b> "
 
 #### Khởi tạo VPC
 
-![alt text](image.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image.png)
 
 #### Khởi tạo public subnet và private subnet
 
-![alt text](image-1.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image-1.png)
 
 #### Khởi tạo internet gateways
 
-![alt text](image-2.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image-2.png)
 
 #### Khởi tạo NAT gateway
 
-![alt text](image-3.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image-3.png)
 
 #### Khởi tạo Route Table
 
-![alt text](image-4.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image-4.png)
 
 ### Chuẩn bị máy chủ EC2
 
@@ -34,11 +34,11 @@ pre : " <b> 5.5.1. </b> "
 
 Bastion Host (Public Subnet)
 
-![alt text](image-5.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image-5.png)
 
 AI Server (Private Subnet)
 
-![alt text](image-6.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image-6.png)
 
 ### Chuẩn bị Security Group
 
@@ -46,16 +46,16 @@ Cấu hình Security Group cho các EC2.
 
 Bastion Host (Public Subnet)
 
-![alt text](image-8.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image-8.png)
 
 AI Server (Private Subnet)
 
-![alt text](image-7.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image-7.png)
 
 ### Chuẩn bị IAM Role
 
 Tạo IAM Role
 
-![alt text](image-9.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.1-Prerequiste/image-9.png)
 
 

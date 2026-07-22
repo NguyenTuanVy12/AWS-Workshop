@@ -20,3 +20,5 @@ To facilitate implementation and monitoring, the **Building a Serverless Backend
 - **5.3.2. Configuring Amazon SQS and AWS Lambda:** Create an Amazon SQS queue, configure IAM roles, deploy Lambda functions, and set up triggers linking Amazon S3, Amazon SQS, and AWS Lambda.
 - **5.3.3. Building AWS Step Functions:** Create a State Machine, configure IAM roles, and build a workflow to orchestrate Lambda functions for the automated analysis process.
 - **5.3.4. System Testing:** Launch the system, upload files via the website, monitor processing status, and verify results in Amazon DynamoDB and the user interface.
+
+![Serverless Backend](/images/5-Workshop/5.3-Serverless-Backend-Developer/image.png)

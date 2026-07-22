@@ -8,7 +8,7 @@ pre : " <b> 5.5.3 </b> "
 
 ### Kết nối từ Bastion Host đến Sandbox
 
-![alt text](image.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image.png)
 
 ### Kiểm tra đã cài python và thư viện cho sandbox
 
@@ -18,7 +18,7 @@ pre : " <b> 5.5.3 </b> "
 
 - Kiểm tra pip nếu chưa có thì dùng lệnh để cài: **sudo dnf install python3-pip -y**
 
-![alt text](image-1.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-1.png)
 
 ### Tạo thư mục AI và kích hoạt môi trường
 
@@ -28,11 +28,11 @@ pre : " <b> 5.5.3 </b> "
 
 - Dùng lệnh **source venv/bin/activate** để kích hoạt môi trường ảo
 
-![alt text](image-2.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-2.png)
 
 ### Nâng cấp pip 
 
-![alt text](image-3.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-3.png)
 
 ### Cài thư viện trong thư mục AI
 
@@ -50,7 +50,7 @@ pre : " <b> 5.5.3 </b> "
 
 - Dùng lệnh **pip install beautifulsoup4** để cài BeautifulSoup
 
-![alt text](image-4.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-4.png)
 
 ### Tải source code vào Sandbox
 
@@ -58,10 +58,10 @@ pre : " <b> 5.5.3 </b> "
 
 - Bước đầu dùng lệnh **scp -i "C:\Users\ASUS\Downloads\sandbox-key.pem" -r AI_Project ubuntu@44.214.180.89:~** để up lên bastion host rồi vào bastion thì sau đó copy code qua sandbox bằng câu lệnh scp -i ~/sandbox-key.pem -r AI_Project ec2-user@10.0.1.xxx:~
 
-![alt text](image-5.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-5.png)
 
 ### Khởi chạy môi trường
 
-![alt text](image-6.png)
+![alt text](/images/5-Workshop/5.5-AI-Security-Analyst-&-Web-Admin/5.5.3-test-gwe/image-6.png)
 
 

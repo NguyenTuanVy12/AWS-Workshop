@@ -18,3 +18,5 @@ The content of this section is divided into four main parts:
 - **5.4.2. Preparing the CI/CD Environment:** Creating the `buildspec.yml` file, configuring the build process, and pushing source code to GitHub.
 - **5.4.3. Setting up AWS CodeBuild:** Creating a CodeBuild project and configuring the build environment to automate application compilation.
 - **5.4.4. Setting up AWS CodePipeline:** Creating a pipeline, connecting GitHub to CodeBuild, and configuring the automated application deployment process.
+
+![Data & CI/CD](/images/5-Workshop/5.4-Data/image.png)

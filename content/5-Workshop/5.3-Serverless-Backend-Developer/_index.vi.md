@@ -20,3 +20,5 @@ Nội dung workshop được chia thành các phần chính gồm chuẩn bị m
 - **5.3.2. Cấu hình Amazon SQS và AWS Lambda:** Tạo hàng đợi Amazon SQS, cấu hình IAM Role, triển khai các Lambda Function và thiết lập các Trigger giữa Amazon S3, Amazon SQS và AWS Lambda.
 - **5.3.3. Xây dựng AWS Step Functions:** Tạo State Machine, cấu hình IAM Role và xây dựng quy trình điều phối các Lambda Function để thực hiện quá trình phân tích tự động.
 - **5.3.4. Kiểm thử hệ thống:** Khởi chạy hệ thống, thực hiện tải tệp lên website, theo dõi trạng thái xử lý và kiểm tra kết quả trên Amazon DynamoDB cũng như giao diện người dùng.
+
+![Serverless Backend](/images/5-Workshop/5.3-Serverless-Backend-Developer/image.png)

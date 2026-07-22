@@ -16,3 +16,5 @@ This section is divided into the following four main topics:
 - **5.6.2. Configuring AWS WAF to protect API Gateway:** Creating a Web ACL and configuring rules to protect API Gateway against attacks such as DoS or spam requests.
 - **5.6.3. Managing encryption keys and secrets:** Using AWS Secrets Manager to store sensitive information and AWS KMS to manage data encryption keys.
 - **5.6.4. Monitoring and assessing system compliance:** Configuring AWS CloudTrail and AWS Config to log activities, track resource changes, and assess compliance with security policies.
+
+![Perimeter Security & Cloud Admin](/images/5-Workshop/5.6-Perimeter-Security-&-Cloud-Admin/image.png)
