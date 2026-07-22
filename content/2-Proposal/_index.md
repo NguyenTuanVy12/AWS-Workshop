@@ -36,8 +36,6 @@ The solution delivers automated testing that reduces analysis time from hours to
 The platform employs a serverless event-driven architecture to ensure complete isolation and high throughput. Web client data is authenticated by Cognito, requests a Presigned URL from Lambda via API Gateway, and uploads directly to a raw S3 bucket. A new file event triggers SQS queuing and Step Functions coordination to spin up the isolated EC2 node in the VPC Sandbox (no Internet Gateway) to analyze the file securely via VPC Gateway Endpoints, logging results into DynamoDB.  
 
 
-![Edge Architecture](/images/2-Proposal/edge_architecture.jpeg)  
-
 
 ![Platform Architecture](/images/2-Proposal/platform_architecture.png)  
 
