@@ -39,7 +39,7 @@ Hệ thống sử dụng kiến trúc phân lớp hướng sự kiện và Serve
 ![Edge Architecture](/images/2-Proposal/edge_architecture.jpeg)  
 
 
-![Platform Architecture](/images/2-Proposal/platform_architecture.jpeg)  
+![Platform Architecture](/images/2-Proposal/platform_architecture.png)  
 
 
 *Dịch vụ AWS sử dụng*  

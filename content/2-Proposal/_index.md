@@ -39,7 +39,7 @@ The platform employs a serverless event-driven architecture to ensure complete i
 ![Edge Architecture](/images/2-Proposal/edge_architecture.jpeg)  
 
 
-![Platform Architecture](/images/2-Proposal/platform_architecture.jpeg)  
+![Platform Architecture](/images/2-Proposal/platform_architecture.png)  
 
 
 *AWS Services Used*  
